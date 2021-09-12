@@ -118,6 +118,17 @@
     </div>
 
     <div class="contact">
+        <h1>CONTACT US</h1>
+        <div class="nameNmail">
+            <input type="text" name="" id="name" placeholder="  Name..."> <input type="email" name="" id="mail" placeholder=" Email...">
+        </div>
+        <textarea name="" id="message" cols="40" rows="5" placeholder=" Your message here..." oninput="auto_height(this)"></textarea>
+        <script>
+            function auto_height(elem) {
+                elem.style.height = "1px";
+                elem.style.height = (elem.scrollHeight)+"px";
+            }
+        </script>
 
     </div>
 
