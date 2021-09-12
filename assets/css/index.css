@@ -13,3 +13,7 @@ body, html {
     background-size: cover;
     color: white;
   }
+
+  .about {
+      text-align: center;
+  }
