@@ -30,3 +30,7 @@ body, html {
       display: flex;
       justify-content: space-around;
   }
+
+  .portfolio {
+      text-align: center;
+  }
