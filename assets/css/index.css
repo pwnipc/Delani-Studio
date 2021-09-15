@@ -88,7 +88,7 @@ body, html {
       margin-top: 100px;
   }
 
-  #abt {
+  #about {
       padding-top: 50px;
   }
 
@@ -123,3 +123,6 @@ body, html {
       position: absolute;
   }
 
+#mouse {
+    padding-top: 85px;
+}
