@@ -3,7 +3,7 @@ $(document).ready(function () {
   //Mouse toggle animation
     var $mouseIcon = $("#mouse");
     (function toggleMouse() {
-      $mouseIcon.slideDown().slideToggle();
+      $mouseIcon.slideToggle().slideDown();
       setTimeout(function () {
         toggleMouse();
       }, 1000)
