@@ -107,3 +107,18 @@ body, html {
       display: block;
       padding-top: 20px;
   }
+
+
+  #w1, #w2, #w3, #w4, #w5, #w6, #w7, #w8 {
+      padding: 10px;
+      text-align: left;
+      color: white;
+      background-color: rgb(255, 255, 255, 0.2);
+      border: solid white ;
+      height: 90%;
+      width: 90%;
+      top: 50px;
+      display: none;
+      position: absolute;
+  }
+
